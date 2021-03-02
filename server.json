@@ -1,0 +1,66 @@
+{
+    "stock": [
+        {
+            "id": 1,
+            "amount": 3
+        },
+        {
+            "id": 2,
+            "amount": 5
+        },
+        {
+            "id": 3,
+            "amount": 2
+        },
+        {
+            "id": 4,
+            "amount": 1
+        },
+        {
+            "id": 5,
+            "amount": 5
+        },
+        {
+            "id": 6,
+            "amount": 10
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Camisa Boca Juniors Away",
+            "price": 179.9,
+            "image": "https://static.netshoes.com.br/produtos/camisa-boca-juniors-away-2021-sn-torcedor-adidas-masculina/20/NQQ-1020-020/NQQ-1020-020_zoom2.jpg?ts=1585210611&ims=326x"
+        },
+        {
+            "id": 2,
+            "title": "Camisa Flamengo I ",
+            "price": 139.9,
+            "image": "https://static.netshoes.com.br/produtos/camisa-flamengo-i-2021-sn-torcedor-adidas-masculina/02/NQQ-1178-002/NQQ-1178-002_zoom2.jpg?ts=1584470712&ims=326x"
+        },
+        {
+            "id": 3,
+            "title": "Camisa São Paulo I",
+            "price": 219.9,
+            "image": "https://static.netshoes.com.br/produtos/camisa-sao-paulo-i-2021-sn-torcedor-adidas-masculina/24/NQQ-1065-024/NQQ-1065-024_zoom2.jpg?ts=1584616638&ims=326x"
+        },
+        {
+            "id": 5,
+            "title": "Camisa Alemanha Retrô 1990",
+            "price": 139.9,
+            "image": "https://static.netshoes.com.br/produtos/camisa-alemanha-retro-1990-masculina/14/AJM-0257-014/AJM-0257-014_zoom2.jpg?ims=326x"
+        },
+        {
+            "id": 6,
+            "title": "Tênis Adidas Duramo Lite 2.0",
+            "price": 219.9,
+            "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Tênis de Caminhada Leve Confortável",
+            "price": 179.9,
+            "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+        }
+    ]
+}
